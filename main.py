@@ -8,7 +8,7 @@ a = """
 *                                                                                 *
 *                                                                                 *
 *                                                                                 *
-*                             ONLINE PAYMENT SYSTEM                               *
+*                              PAYMENT SYSTEM                                     *
 *                                                                                 *
 *                                                                                 *
 *                                                                                 *
